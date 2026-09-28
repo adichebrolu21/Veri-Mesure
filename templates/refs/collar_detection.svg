@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 250" width="460" height="250" role="img" aria-label="collar detection reference">
+  <line x1="230.0" y1="8" x2="230.0" y2="242" stroke="#1F3D43" stroke-width="1"/>
+
+  <g transform="translate(0,0)">
+    <text x="12" y="20" fill="#7E9AA0" font-family="system-ui,sans-serif" font-size="11" font-weight="600">what it means</text>
+    <path d="M 36 62 C 56 48 80 40 94 38 L 166 38 C 180 40 204 48 224 62 L 214 96 L 198 88 L 198 190 C 172 196 88 196 62 190 L 62 88 L 46 96 Z" fill="#E8EDE9" fill-opacity="0.09" stroke="#E8EDE9" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M 108 38 C 108 76 120 94 130 94 C 140 94 152 76 152 38" fill="none" stroke="#E8EDE9" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="0.1 3.6" stroke-linecap="round"/>
+    <path d="M 94 38 C 94 86 112 108 130 108 C 148 108 166 86 166 38 Z" fill="none" stroke="#E8A33D" stroke-width="2.6" stroke-linejoin="round"/>
+    <circle cx="94" cy="38" r="2.8" fill="#E8A33D"/>
+    <circle cx="166" cy="38" r="2.8" fill="#E8A33D"/>
+    <text x="130" y="126" fill="#E8EDE9" font-family="system-ui,sans-serif" font-size="11" text-anchor="middle">whole collar</text>
+    <text x="12" y="226" fill="#5A7C82" font-family="system-ui,sans-serif" font-size="10">the whole collar: outer edge and back of neck</text>
+    <text x="12" y="240" fill="#5A7C82" font-family="system-ui,sans-serif" font-size="10">the opening (dotted) is not measured</text>
+  </g>
+
+  <g transform="translate(230.0,0)">
+    <text x="12" y="20" fill="#7E9AA0" font-family="system-ui,sans-serif" font-size="11" font-weight="600">how to present it</text>
+    <path d="M 36 62 C 56 48 80 40 94 38 L 166 38 C 180 40 204 48 224 62 L 214 96 L 198 88 L 198 190 C 172 196 88 196 62 190 L 62 88 L 46 96 Z" fill="#E8EDE9" fill-opacity="0.09" stroke="#E8EDE9" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 108 38 C 108 76 120 94 130 94 C 140 94 152 76 152 38" fill="none" stroke="#E8EDE9" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="0.1 3.6" stroke-linecap="round"/>
+    <path d="M 94 38 C 94 86 112 108 130 108 C 148 108 166 86 166 38" fill="none" stroke="#E8EDE9" stroke-width="1.6"/>
+    <rect x="80" y="28" width="100" height="92" fill="none" stroke="#E8A33D" stroke-width="2" stroke-dasharray="7 4"/>
+    <text x="12" y="226" fill="#5A7C82" font-family="system-ui,sans-serif" font-size="10">a box round the whole collar, with</text>
+    <text x="12" y="240" fill="#5A7C82" font-family="system-ui,sans-serif" font-size="10">some mat - where does not matter</text>
+  </g>
+</svg>

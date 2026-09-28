@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 250" width="460" height="250" role="img" aria-label="shoulder width reference">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#E8A33D"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#E8A33D"/></marker>
+  </defs>
+  <line x1="230.0" y1="8" x2="230.0" y2="242" stroke="#1F3D43" stroke-width="1"/>
+  <g transform="translate(0,0)">
+    <text x="12" y="20" fill="#7E9AA0" font-family="system-ui,sans-serif" font-size="11" font-weight="600">what it means</text>
+    <path d="M 78 34 C 90 26 104 22 115 21 C 122 31 134 37 147 37 C 160 37 172 31 179 21 C 190 22 204 26 216 34 L 236 62 L 212 82 L 202 71 L 202 172 C 178 178 116 178 92 172 L 92 71 L 82 82 L 58 62 Z" fill="#E8EDE9" fill-opacity="0.09" stroke="#E8EDE9" stroke-width="1.6" stroke-linejoin="round"/>
+    <line x1="92" y1="44" x2="202" y2="44" stroke="#E8A33D" stroke-width="1.8" marker-start="url(#b)" marker-end="url(#a)"/>
+    <text x="147.0" y="35.0" fill="#E8EDE9" font-family="system-ui,sans-serif" font-size="11" text-anchor="middle">shoulder width</text>
+    <text x="12" y="240" fill="#5A7C82" font-family="system-ui,sans-serif" font-size="10">seam to seam across the back</text>
+  </g>
+  <g transform="translate(230.0,0)">
+    <text x="12" y="20" fill="#7E9AA0" font-family="system-ui,sans-serif" font-size="11" font-weight="600">how to present it</text>
+    <rect x="30" y="30" width="7" height="160" rx="2" fill="#E8A33D" opacity="0.85"/>
+    <text x="27" y="110" fill="#5A7C82" font-family="system-ui,sans-serif" font-size="9" text-anchor="middle" transform="rotate(-90 27 110)">mark</text>
+    <path d="M 40 70.0 l 12 0 m -4 -4 l 4 4 l -4 4" stroke="#E8A33D" stroke-width="1.4" fill="none" opacity="0.7"/>
+    <path d="M 40 110.0 l 12 0 m -4 -4 l 4 4 l -4 4" stroke="#E8A33D" stroke-width="1.4" fill="none" opacity="0.7"/>
+    <path d="M 40 150.0 l 12 0 m -4 -4 l 4 4 l -4 4" stroke="#E8A33D" stroke-width="1.4" fill="none" opacity="0.7"/>
+    <path d="M 58 52 L 163 60 C 171 121.0 171 121.0 163 182 L 58 190 Z" fill="#E8EDE9" fill-opacity="0.09" stroke="#E8EDE9" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="58" y1="52" x2="58" y2="190" stroke="#E8A33D" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="72" y1="52" x2="72" y2="190" stroke="#E8A33D" stroke-width="1.8" marker-start="url(#b)" marker-end="url(#a)"/>
+    <text x="81.0" y="125.0" fill="#E8EDE9" font-family="system-ui,sans-serif" font-size="11" text-anchor="start">the measurement</text>
+    <text x="12" y="240" fill="#5A7C82" font-family="system-ui,sans-serif" font-size="10">the shoulder line is the edge</text>
+  </g>
+</svg>

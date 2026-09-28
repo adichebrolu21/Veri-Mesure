@@ -1,0 +1,53 @@
+{
+  "style": "IVT BLACK T SHIRT TESTER",
+  "units": "mm",
+  "steps": [
+    {
+      "name": "sleeve_length",
+      "target_mm": 2.3e+02,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "height_mm": 1.6,
+      "reference_image": "refs/sleeve_length.svg",
+      "instruction": "Fold the sleeve flat along its top seam so that seam is one clean straight edge from shoulder to cuff, and turn that edge to face the mark."
+    },
+    {
+      "name": "bottom_hem",
+      "target_mm": 551.0,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "height_mm": 3.2,
+      "reference_image": "refs/bottom_hem.svg",
+      "instruction": "Lay the shirt flat so the bottom hem is one clean edge from side seam to side seam, and turn that edge to face the mark. The hem sweeps; leave it as it lies rather than pulling it straight."
+    },
+    {
+      "name": "body_length",
+      "target_mm": 685.0,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "height_mm": 1.6,
+      "reference_image": "refs/body_length.svg",
+      "instruction": "Fold the shirt so the side runs straight from the high shoulder point down to the hem, and turn that edge to face the mark."
+    },
+    {
+      "name": "half_chest",
+      "target_mm": 5.5e+02,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "height_mm": 3.2,
+      "reference_image": "refs/half_chest.svg",
+      "instruction": "Fold along the chest so the line from one side seam to the other is one clean straight edge, and turn that edge to face the mark."
+    },
+    {
+      "name": "collar_detection",
+      "target_mm": 474.0,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "kind": "collar",
+      "measure": "around",
+      "seam": "outer",
+      "reference_image": "refs/collar_detection.svg",
+      "instruction": "Lay the shirt flat and face up with the collar flattened down. Drag a box round the whole collar on the picture - past both shoulders, with a little of the mat beyond the edge of the shirt inside it. The machine finds the collar's edges and the shoulder points itself and measures the whole collar: its outer edge over the front and the edge of the shirt across the back of the neck. The dotted line is the opening, shown and not measured. Where you draw the box does not change the number."
+    }
+  ]
+}

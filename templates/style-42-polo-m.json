@@ -1,0 +1,42 @@
+{
+  "style": "style-42-polo-M",
+  "units": "mm",
+  "steps": [
+    {
+      "name": "sleeve_length",
+      "target_mm": 2.3e+02,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "height_mm": 1.6,
+      "reference_image": "refs/sleeve_length.svg",
+      "instruction": "Fold the sleeve flat along its top seam so that seam is one clean straight edge from shoulder to cuff, and turn that edge to face the mark."
+    },
+    {
+      "name": "shoulder_width",
+      "target_mm": 4.3e+02,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "height_mm": 1.6,
+      "reference_image": "refs/shoulder_width.svg",
+      "instruction": "Fold the body under so the shoulder line from seam to seam is one clean straight edge, and turn that edge to face the mark."
+    },
+    {
+      "name": "body_length",
+      "target_mm": 7.1e+02,
+      "tol_minus_mm": -12.7,
+      "tol_plus_mm": 12.7,
+      "height_mm": 1.6,
+      "reference_image": "refs/body_length.svg",
+      "instruction": "Fold the shirt so the side runs straight from the high shoulder point down to the hem, and turn that edge to face the mark."
+    },
+    {
+      "name": "half_chest",
+      "target_mm": 5.1e+02,
+      "tol_minus_mm": -1e+01,
+      "tol_plus_mm": 1e+01,
+      "height_mm": 3.2,
+      "reference_image": "refs/half_chest.svg",
+      "instruction": "Fold along the chest so the line from one side seam to the other is one clean straight edge, and turn that edge to face the mark."
+    }
+  ]
+}
