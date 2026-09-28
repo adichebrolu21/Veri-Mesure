@@ -23,7 +23,7 @@
 garment measurement and quality inspection.
 
 It handles camera acquisition, calibration, segmentation, geometric
-feature extraction, measurement, and QC validation in a C++ pipeline.
+feature extraction, measurement, and QC validation.
 
 ---
 
